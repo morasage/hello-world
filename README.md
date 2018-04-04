@@ -1,3 +1,3 @@
 # hello-world
-tutorial guide 
+Tutorial Guide: 
 Getting acquainted with the GitHub developing format.
